@@ -112,7 +112,7 @@ Open the local URL (usually http://localhost:8501)
 
 - MobileNetV2 used with ImageNet weights
 - Last layers unfrozen for fine-tuning
-- Recommended LR for fine-tuning: 1e-5
+- Recommended LR for fine-tuning: 1e-4
 
 ### License
 
