@@ -65,17 +65,17 @@ A simple **Streamlit web application** is included for easy image upload and ins
 ├── LICENSE                         # MIT License
 ├── README.md                       # This file
 └── notebooks/                      # (Optional) training notebooks
-
+```
 
 ---
 
 ## Installation
 
 ### 1. Clone the repository
+
 ```bash
 git clone https://github.com/Zafir547/Stress-Facial-Expression-Classification-Predictions.git
 cd Stress-Facial-Expression-Classification-Predictions
-
 ```
 
 ### 2. Create and activate a virtual environment
