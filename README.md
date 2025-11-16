@@ -18,9 +18,9 @@ A simple **Streamlit web application** is included for easy image upload and ins
 ## Demo
 <div align="center">
 
-| Stressed | Not Stressed |
+| Not Stressed | Stressed |
 |--------------|----------|
-| ![Demo 1](Stressed.png) | ![Demo 2](Not_Stressed.png) |
+| ![Demo 1](Not_Stressed.png) | ![Demo 2](Stressed.png) |
 
 </div>
 
